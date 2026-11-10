@@ -1,0 +1,40 @@
+# Ren'Py generated files
+game/cache/
+game/saves/
+game/**/*.rpyc
+game/**/*.rpymc
+*.rpyc
+*.rpymc
+
+# Bundled Ren'Py runtimes and generated launchers
+lib/
+renpy/
+/chunsheng_nanlai.exe
+/chunsheng_nanlai.py
+/chunsheng_nanlai.sh
+
+# Packaged builds and archives
+*.zip
+*-dists/
+dist/
+build/
+
+# Runtime logs and crash reports
+log.txt
+traceback.txt
+errors.txt
+*.log
+
+# Backups and temporary files
+*.bak
+*.tmp
+*.old
+*~
+Thumbs.db
+.DS_Store
+
+# Editor and Python caches
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
